@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#table, th, td{
+   
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 4px;
+}
+
+
+#nimiHaku, #osoiteHaku, #tyypit{
+    margin: 4px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+#haeTiedotBtn, #lisaaBtn{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 14px;
+}
+#lisaaBtn{
+    margin-left: 200px;
+}
